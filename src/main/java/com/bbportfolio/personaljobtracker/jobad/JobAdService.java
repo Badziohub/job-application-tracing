@@ -1,4 +1,4 @@
-package com.bbportfolio.personaljobtracker.jobads;
+package com.bbportfolio.personaljobtracker.jobad;
 
 import org.springframework.stereotype.Service;
 

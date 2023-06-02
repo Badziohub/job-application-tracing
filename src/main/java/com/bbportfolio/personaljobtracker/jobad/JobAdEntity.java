@@ -1,4 +1,4 @@
-package com.bbportfolio.personaljobtracker.jobads;
+package com.bbportfolio.personaljobtracker.jobad;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.NotNull;

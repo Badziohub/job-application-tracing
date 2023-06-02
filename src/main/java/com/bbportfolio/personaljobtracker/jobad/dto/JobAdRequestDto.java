@@ -1,4 +1,4 @@
-package com.bbportfolio.personaljobtracker.jobads.dto;
+package com.bbportfolio.personaljobtracker.jobad.dto;
 
 
 import jakarta.validation.constraints.NotBlank;
